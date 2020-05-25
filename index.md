@@ -2,10 +2,10 @@
 
 layout: col-sidebar
 title: OWASP Dindigul
-tags: example-tag
+tags: Dindigul
 level: 0
 
-region: Middle East
+region: Asia
 
 auto-migrated: 1
 
@@ -52,3 +52,9 @@ This separate file is where you should place links to your Google Group and Meet
 Another separate file that should simply include each leaders name with mailto link as a list. It will also be automatically rendered in the column sidebar.
 
 -->
+
+## Contact Us:
+
+[![Facebook](https://img.shields.io/badge/Facebook-blue)](https://www.facebook.com/owaspdindigul/) 
+
+<!-- [![Meetup](https://img.shields.io/badge/%F0%9F%8E%89-Meetup-red)](https://www.meetup.com/OWASP-Cuddalore-Chapter) -->
