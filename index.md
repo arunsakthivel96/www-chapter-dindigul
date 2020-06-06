@@ -56,5 +56,3 @@ Another separate file that should simply include each leaders name with mailto l
 ## Contact Us:
 
 [![Facebook](https://img.shields.io/badge/Facebook-blue)](https://www.facebook.com/owaspdindigul/) 
-
-<!-- [![Meetup](https://img.shields.io/badge/%F0%9F%8E%89-Meetup-red)](https://www.meetup.com/OWASP-Cuddalore-Chapter) -->
